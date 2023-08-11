@@ -1,2 +1,2 @@
-# mask-detection-
+# Face-mask-detection-
 i develop this using python ..
